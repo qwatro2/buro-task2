@@ -1,5 +1,5 @@
 package solution;
 
-public interface Printer {
+interface Printer {
     <T> void print(T t);
 }
